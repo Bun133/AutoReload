@@ -1,0 +1,5 @@
+name: Autoreload
+version: '${project.version}'
+main: com.github.bun133.autoreload.Autoreload
+api-version: 1.19
+authors: [ Bun133 ]
